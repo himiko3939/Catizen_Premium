@@ -1,11 +1,17 @@
-this bot is for SALE
+THIS BOT IS FOR SALE
+
 contact me [Here](t.me/Nezuaoi)
 
-Feature
+Feature :
+
 -auto merge
+
 -auto bost gold
+
 -multi account
+
 -run via Termux/vps
+
 -No need API/HASH ( safe )
 
 no banned if you follow the rules
