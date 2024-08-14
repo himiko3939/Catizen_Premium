@@ -2,11 +2,11 @@ this bot is for SALE
 contact me [Here](t.me/Nezuaoi)
 
 Feature
-✓ auto merge
-✓ auto bost gold
-✓ multi account
-✓ run via Termux/vps
-✓ No need API/HASH ( safe )
+-auto merge
+-auto bost gold
+-multi account
+-run via Termux/vps
+-No need API/HASH ( safe )
 
 no banned if you follow the rules
 # Catizen
