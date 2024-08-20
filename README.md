@@ -2,13 +2,13 @@ THIS BOT IS FOR SALE
 
 contact me [Here](https://t.me/Nezuaoi)
 
-Feature
+Feature :
 
 -auto merge
 
 -auto bost gold
 
--multi account
+-multi account 1000+ USE PROXY
 
 -run via Termux/vps
 
